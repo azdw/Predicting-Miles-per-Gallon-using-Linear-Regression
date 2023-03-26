@@ -1,6 +1,6 @@
 # Assignment-1-CS465
 
-#Predicting Miles per Gallon using Linear Regression
+# Predicting Miles per Gallon using Linear Regression
 
 This project uses linear regression to predict miles per gallon (mpg) for a dataset of cars based on different predictor variables such as weight, horsepower, and displacement.
 
